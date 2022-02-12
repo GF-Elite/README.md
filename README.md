@@ -1,2 +1,10 @@
-# README.md
-&lt;h1>About&lt;/h1> &lt;p>Andika adalah seorang programmer yang berasal dari medan, sumatra utara, Indonesia ðŸ‡®ðŸ‡©&lt;/p> &lt;h1>Suport me on&lt;/h1> &lt;ul>    &lt;li>&lt;a href="https://www.facebook.com/kananda.widiantara.50/">Facebook&lt;/a>&lt;/li>    &lt;li>&lt;a href="https://www.instagram.com/andika_12124123">Instagram&lt;/a>&lt;/li>    &lt;li>&lt;a href="https://wa.me/qr/VINCIJSZ54W7G1/">whatsapp&lt;/a>&lt;/li> &lt;/ul>  &lt;p>&lt;img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GF-Elite&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" alt="mazipan" />&lt;/p>
+<h1>About</h1>
+<p>Andika adalah seorang programmer yang berasal dari medan, sumatra utara, Indonesia ðŸ‡®ðŸ‡©</p>
+<h1>Suport me on</h1>
+<ul>
+   <li><a href="https://www.facebook.com/kananda.widiantara.50/">Facebook</a></li>
+   <li><a href="https://www.instagram.com/andika_12124123">Instagram</a></li>
+   <li><a href="https://wa.me/qr/VINCIJSZ54W7G1/">whatsapp</a></li>
+</ul>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GF-Elite&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
